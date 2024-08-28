@@ -1,7 +1,7 @@
 import mysql.connector as mc
 import random as r
 
-mydb=mc.connect(user='root', passwd='2403ujjwal', host='localhost', database='python_project_xii')
+mydb=mc.connect(user='root', passwd='vidit', host='localhost', database='python_project_xii')
 
 
 cur=mydb.cursor()
